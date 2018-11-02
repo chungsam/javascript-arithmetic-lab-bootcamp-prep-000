@@ -15,7 +15,7 @@ var divide = (a, b) => {
 }
 
 var inc = (n) => {
-  return n += 1;
+  return ++n;
 }
 
 var dec = (n) => {
