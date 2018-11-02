@@ -19,7 +19,7 @@ var inc = (n) => {
 }
 
 var dec = (n) => {
-  return n -= 1;
+  return --n;
 }
 
 var makeInt = (n) => {
